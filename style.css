@@ -37,9 +37,27 @@ header h3 {
   margin: 20px 0 5px;
   color: #a4bff7;
 }
+@media screen and (max-width: 768px) {
+  header h1 {
+    text-align: center;
+    font-size: 45px;
+    color: #da0f0f;
+  }
+  header h2 {
+    font-size: 20px;
+    margin: 10px 0 0;
+    color: #a4bff7;
+  }
+  header h3 {
+    text-align: right;
+    font-size: 20px;
+    margin: 10px 0 0;
+    color: #a4bff7;
+  }
+}
 
 #menu {
-  padding: 220px 0;
+  padding: 120px 0;
 }
 #menu h1 {
   text-align: center;
@@ -52,7 +70,7 @@ header h3 {
   color: #da0707;
   margin: 35px 0;
 }
-#menu .imgbox {
+#menu .imgbox img {
   border: 3px solid #ad0606;
   border-radius: 13px;
 }
