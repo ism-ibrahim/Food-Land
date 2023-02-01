@@ -15,23 +15,23 @@ section {
   padding: 20px 0;
 }
 
-#header {
+header {
   background-color: #202020;
   position: fixed;
   z-index: 1;
   width: 100%;
 }
-#header h1 {
+header h1 {
   text-align: center;
   font-size: 55px;
   color: #da0f0f;
 }
-#header h2 {
+header h2 {
   font-size: 30px;
   margin: 20px 0 5px;
   color: #a4bff7;
 }
-#header h3 {
+header h3 {
   text-align: right;
   font-size: 30px;
   margin: 20px 0 5px;
