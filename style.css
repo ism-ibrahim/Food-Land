@@ -1,0 +1,55 @@
+body {
+  font-family: 'Dosis', sans-serif;
+  font-weight: 500;
+  background-color: #000000d7;
+}
+
+.imgbox {
+  overflow: hidden;
+}
+
+.imgbox img {
+  width: 100%;
+}
+
+section {
+  padding: 20px 0;
+}
+
+#start h1 {
+  text-align: center;
+  font-size: 60px;
+  color: #da0f0f;
+}
+
+#start h2 {
+  font-size: 35px;
+  margin: 20px 0 5px;
+  color: #a4bff7;
+}
+
+#menu h1 {
+  text-align: center;
+  font-size: 55px;
+  color: #dbbc08;
+  margin: 10px;
+}
+
+#menu h2 {
+  font-size: 40px;
+  color: #da0707;
+  margin: 35px 0;
+}
+
+#menu .imgbox {
+  border: 3px solid #ad0606;
+  border-radius: 13px;
+}
+
+#menu h3 {
+  text-align: center;
+  font-size: 30px;
+  margin: 10px 0 40px;
+  color: #e2a808;
+}
+/*# sourceMappingURL=style.css.map */
