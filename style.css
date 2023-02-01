@@ -57,7 +57,7 @@ header h3 {
 }
 
 #menu {
-  padding: 120px 0;
+  padding: 150px 0;
 }
 #menu h1 {
   text-align: center;
@@ -79,4 +79,9 @@ header h3 {
   font-size: 30px;
   margin: 10px 0 40px;
   color: #e2a808;
+}
+@media screen and (max-width: 768px) {
+  #menu {
+    padding: 120px 0;
+  }
 }/*# sourceMappingURL=style.css.map */
