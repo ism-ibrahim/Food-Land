@@ -26,6 +26,10 @@ header h1 {
   text-align: center;
   font-size: 55px;
   color: #da0f0f;
+  margin-top: 10px;
+}
+header h1:hover {
+  cursor: pointer;
 }
 header h2 {
   font-size: 30px;
@@ -68,7 +72,7 @@ header h3 {
 }
 @media screen and (max-width: 768px) {
   #menu {
-    padding: 110px 0 0;
+    padding: 120px 0 0;
   }
 }
 
