@@ -1,0 +1,153 @@
+body {
+  font-family: 'Dosis', sans-serif;
+  font-weight: 500;
+  background-color: #202020;
+}
+
+.imgbox {
+  overflow: hidden;
+}
+
+.imgbox img {
+  width: 100%;
+}
+
+section {
+  padding: 15px 0;
+}
+
+header {
+  background-color: #202020;
+  position: fixed;
+  z-index: 1;
+  width: 100%;
+}
+
+header h1 {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-align: center;
+  font-size: 55px;
+  color: #da0f0f;
+}
+
+header h2 {
+  font-size: 30px;
+  margin: 20px 0 5px;
+  color: #0adb2d;
+}
+
+header h3 {
+  text-align: right;
+  font-size: 30px;
+  margin: 20px 0 5px;
+  color: #0adb2d;
+}
+
+@media screen and (max-width: 768px) {
+  header h1 {
+    text-align: center;
+    font-size: 45px;
+    color: #da0f0f;
+  }
+  header h2 {
+    font-size: 20px;
+    margin: 10px 0 0;
+    color: #a4bff7;
+  }
+  header h3 {
+    text-align: right;
+    font-size: 20px;
+    margin: 10px 0 0;
+    color: #a4bff7;
+  }
+}
+
+#menu {
+  padding: 150px 0 10px;
+}
+
+#menu h1 {
+  text-align: center;
+  font-size: 55px;
+  color: #dbbc08;
+  margin: 10px;
+}
+
+@media screen and (max-width: 768px) {
+  #menu {
+    padding: 140px 0 0;
+  }
+}
+
+#burger h2 {
+  font-size: 40px;
+  color: #da0707;
+  margin: 20px 0;
+}
+
+#burger .imgbox img {
+  border: 3px solid #ad0606;
+  border-radius: 13px;
+}
+
+#burger h3 {
+  text-align: center;
+  font-size: 30px;
+  margin: 10px 0 40px;
+  color: #e2a808;
+}
+
+#pizza h2 {
+  font-size: 40px;
+  color: #da0707;
+  margin: 20px 0;
+}
+
+#pizza .imgbox img {
+  border: 3px solid #ad0606;
+  border-radius: 13px;
+}
+
+#pizza h3 {
+  text-align: center;
+  font-size: 30px;
+  margin: 10px 0 40px;
+  color: #e2a808;
+}
+
+#salats h2 {
+  font-size: 40px;
+  color: #da0707;
+  margin: 20px 0;
+}
+
+#salats .imgbox img {
+  border: 3px solid #ad0606;
+  border-radius: 13px;
+}
+
+#salats h3 {
+  text-align: center;
+  font-size: 30px;
+  margin: 10px 0 40px;
+  color: #e2a808;
+}
+
+#drinks h2 {
+  font-size: 40px;
+  color: #da0707;
+  margin: 20px 0;
+}
+
+#drinks .imgbox img {
+  border: 3px solid #ad0606;
+  border-radius: 13px;
+}
+
+#drinks h3 {
+  text-align: center;
+  font-size: 30px;
+  margin: 10px 0 40px;
+  color: #e2a808;
+}
+/*# sourceMappingURL=style.css.map */
