@@ -1,2 +1,0 @@
-# Food-Land
-Restaurant System
