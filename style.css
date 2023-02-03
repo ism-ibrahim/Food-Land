@@ -1,7 +1,7 @@
 body {
   font-family: "Dosis", sans-serif;
   font-weight: 500;
-  background-color: #202020;
+  background-color: #2c2b2b;
 }
 
 .imgbox {
@@ -16,7 +16,7 @@ section {
 }
 
 header {
-  background-color: #202020;
+  background-color: #2c2b2b;
   position: fixed;
   z-index: 1;
   width: 100%;
@@ -160,6 +160,6 @@ footer .icons a i {
   transition: 1s;
 }
 footer .icons a i:hover {
-  background-color: #000;
+  background-color: #2c2b2b;
   cursor: pointer;
 }/*# sourceMappingURL=style.css.map */
