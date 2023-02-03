@@ -12,7 +12,7 @@ body {
 }
 
 section {
-  padding: 15px 0;
+  padding: 5px 0;
 }
 
 header {
@@ -57,15 +57,17 @@ header h3 {
     color: #cf0b0b;
   }
   header h2 {
-    font-size: 23px;
+    font-size: 20px;
     margin: 15px 0 0;
     color: #0adb2d;
+    padding: 5px;
   }
   header h3 {
     text-align: right;
-    font-size: 23px;
+    font-size: 20px;
     margin: 15px 0 0;
     color: #0adb2d;
+    padding: 5px;
   }
 }
 
@@ -95,20 +97,28 @@ header h3 {
   color: #da0707;
   margin: 20px 0;
 }
+#burger .imgbox {
+  border: 3px solid #ad0606;
+  border-radius: 16px;
+  margin-bottom: 20px;
+}
 #burger .imgbox img {
   border: 3px solid #ad0606;
   border-radius: 13px;
 }
-#burger h3 {
+#burger .imgbox img:hover {
+  cursor: pointer;
+}
+#burger .imgbox h3 {
   text-align: center;
   font-size: 30px;
-  margin: 10px 0 40px 10px;
+  margin: 10px 0 15px 10px;
   color: #e2a808;
 }
-#burger h4 {
+#burger .imgbox h4 {
   text-align: center;
   font-size: 28px;
-  margin: 10px 15px 40px 0;
+  margin: 10px 15px 15px 0;
   color: #0adb2d;
 }
 
@@ -117,20 +127,28 @@ header h3 {
   color: #da0707;
   margin: 20px 0;
 }
+#pizza .imgbox {
+  border: 3px solid #ad0606;
+  border-radius: 16px;
+  margin-bottom: 20px;
+}
 #pizza .imgbox img {
   border: 3px solid #ad0606;
   border-radius: 13px;
 }
-#pizza h3 {
+#pizza .imgbox img:hover {
+  cursor: pointer;
+}
+#pizza .imgbox h3 {
   text-align: center;
   font-size: 30px;
-  margin: 10px 0 40px 10px;
+  margin: 10px 0 15px 10px;
   color: #e2a808;
 }
-#pizza h4 {
+#pizza .imgbox h4 {
   text-align: center;
   font-size: 28px;
-  margin: 10px 15px 40px 0;
+  margin: 10px 15px 15px 0;
   color: #0adb2d;
 }
 
@@ -139,20 +157,28 @@ header h3 {
   color: #da0707;
   margin: 20px 0;
 }
+#salats .imgbox {
+  border: 3px solid #ad0606;
+  border-radius: 16px;
+  margin-bottom: 20px;
+}
 #salats .imgbox img {
   border: 3px solid #ad0606;
   border-radius: 13px;
 }
-#salats h3 {
+#salats .imgbox img:hover {
+  cursor: pointer;
+}
+#salats .imgbox h3 {
   text-align: center;
   font-size: 30px;
-  margin: 10px 0 40px 10px;
+  margin: 10px 0 15px 10px;
   color: #e2a808;
 }
-#salats h4 {
+#salats .imgbox h4 {
   text-align: center;
   font-size: 28px;
-  margin: 10px 15px 40px 0;
+  margin: 10px 15px 15px 0;
   color: #0adb2d;
 }
 
@@ -161,20 +187,28 @@ header h3 {
   color: #da0707;
   margin: 20px 0;
 }
+#drinks .imgbox {
+  border: 3px solid #ad0606;
+  border-radius: 16px;
+  margin-bottom: 20px;
+}
 #drinks .imgbox img {
   border: 3px solid #ad0606;
   border-radius: 13px;
 }
-#drinks h3 {
+#drinks .imgbox img:hover {
+  cursor: pointer;
+}
+#drinks .imgbox h3 {
   text-align: center;
   font-size: 30px;
-  margin: 10px 0 40px 10px;
+  margin: 10px 0 15px 10px;
   color: #e2a808;
 }
-#drinks h4 {
+#drinks .imgbox h4 {
   text-align: center;
   font-size: 28px;
-  margin: 10px 15px 40px 0;
+  margin: 10px 15px 15px 0;
   color: #0adb2d;
 }
 
