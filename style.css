@@ -25,7 +25,7 @@ header h1 {
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
   text-align: center;
   font-size: 65px;
-  color: #cf0b0b;
+  color: #e60707;
   margin-top: 10px;
 }
 header h1:hover {
@@ -54,7 +54,7 @@ header h3 {
   header h1 {
     text-align: center;
     font-size: 45px;
-    color: #cf0b0b;
+    color: #e60707;
   }
   header h2 {
     font-size: 20px;
@@ -94,7 +94,7 @@ header h3 {
 
 #burger h2 {
   font-size: 40px;
-  color: #da0707;
+  color: #e60707;
   margin: 20px 0;
 }
 #burger .imgbox {
@@ -124,7 +124,7 @@ header h3 {
 
 #pizza h2 {
   font-size: 40px;
-  color: #da0707;
+  color: #e60707;
   margin: 20px 0;
 }
 #pizza .imgbox {
@@ -154,7 +154,7 @@ header h3 {
 
 #salats h2 {
   font-size: 40px;
-  color: #da0707;
+  color: #e60707;
   margin: 20px 0;
 }
 #salats .imgbox {
@@ -184,7 +184,7 @@ header h3 {
 
 #drinks h2 {
   font-size: 40px;
-  color: #da0707;
+  color: #e60707;
   margin: 20px 0;
 }
 #drinks .imgbox {
