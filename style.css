@@ -160,7 +160,6 @@ footer .icons a i {
   transition: 1s;
 }
 footer .icons a i:hover {
-  transition: 0, 1s;
   background-color: #000;
   cursor: pointer;
 }/*# sourceMappingURL=style.css.map */
