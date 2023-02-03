@@ -36,7 +36,7 @@ header h2 {
   font-size: 30px;
   margin: 20px 0 5px;
   color: #0adb2d;
-  border: 1px solid #0adb2d;
+  border: 2px solid #0adb2d;
   border-radius: 8px;
   padding: 8px;
 }
@@ -46,7 +46,7 @@ header h3 {
   font-size: 30px;
   margin: 20px 0 5px;
   color: #0adb2d;
-  border: 1px solid #0adb2d;
+  border: 2px solid #0adb2d;
   border-radius: 8px;
   padding: 8px;
 }
@@ -99,12 +99,12 @@ header h3 {
 }
 #burger .imgbox {
   border: 3px solid #ad0606;
-  border-radius: 16px;
+  border-radius: 20px;
   margin-bottom: 20px;
 }
 #burger .imgbox img {
   border: 3px solid #ad0606;
-  border-radius: 13px;
+  border-radius: 15px;
 }
 #burger .imgbox img:hover {
   cursor: pointer;
@@ -129,12 +129,12 @@ header h3 {
 }
 #pizza .imgbox {
   border: 3px solid #ad0606;
-  border-radius: 16px;
+  border-radius: 20px;
   margin-bottom: 20px;
 }
 #pizza .imgbox img {
   border: 3px solid #ad0606;
-  border-radius: 13px;
+  border-radius: 15px;
 }
 #pizza .imgbox img:hover {
   cursor: pointer;
@@ -159,12 +159,12 @@ header h3 {
 }
 #salats .imgbox {
   border: 3px solid #ad0606;
-  border-radius: 16px;
+  border-radius: 20px;
   margin-bottom: 20px;
 }
 #salats .imgbox img {
   border: 3px solid #ad0606;
-  border-radius: 13px;
+  border-radius: 15px;
 }
 #salats .imgbox img:hover {
   cursor: pointer;
@@ -189,12 +189,12 @@ header h3 {
 }
 #drinks .imgbox {
   border: 3px solid #ad0606;
-  border-radius: 16px;
+  border-radius: 20px;
   margin-bottom: 20px;
 }
 #drinks .imgbox img {
   border: 3px solid #ad0606;
-  border-radius: 13px;
+  border-radius: 15px;
 }
 #drinks .imgbox img:hover {
   cursor: pointer;
