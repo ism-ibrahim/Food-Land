@@ -6,6 +6,7 @@ body {
 
 .imgbox {
   overflow: hidden;
+  max-width: 400px;
 }
 .imgbox img {
   width: 100%;
@@ -146,6 +147,9 @@ header h3 {
   color: #0adb2d;
 }
 
+#kabab {
+  padding-left: 20px;
+}
 #kabab h2 {
   font-size: 40px;
   color: #e60707;
