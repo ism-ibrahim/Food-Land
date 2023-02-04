@@ -66,6 +66,21 @@ header h3 {
     padding: 5px;
   }
 }
+@media screen and (max-width: 346px) {
+  header h1 {
+    font-size: 35px;
+  }
+  header h2 {
+    font-size: 18px;
+    margin: 15px 0 0;
+    padding: 5px;
+  }
+  header h3 {
+    font-size: 18px;
+    margin: 15px 0 0;
+    padding: 5px;
+  }
+}
 
 #menu {
   padding: 150px 0 10px;
@@ -82,6 +97,11 @@ header h3 {
   }
   #menu h1 {
     margin: 10px 0 0;
+  }
+}
+@media screen and (max-width: 346px) {
+  #menu h1 {
+    font-size: 50px;
   }
 }
 
@@ -115,6 +135,17 @@ header h3 {
   margin: 10px 15px 15px 0;
   color: #0adb2d;
 }
+@media screen and (max-width: 346px) {
+  #burger h2 {
+    font-size: 30px;
+  }
+  #burger h3 {
+    font-size: 24px;
+  }
+  #burger h4 {
+    font-size: 24px;
+  }
+}
 
 #pizza h2 {
   font-size: 40px;
@@ -145,6 +176,17 @@ header h3 {
   font-size: 27px;
   margin: 10px 15px 15px 0;
   color: #0adb2d;
+}
+@media screen and (max-width: 346px) {
+  #pizza h2 {
+    font-size: 30px;
+  }
+  #pizza h3 {
+    font-size: 24px;
+  }
+  #pizza h4 {
+    font-size: 24px;
+  }
 }
 
 #kabab {
@@ -180,6 +222,17 @@ header h3 {
   margin: 10px 15px 15px 0;
   color: #0adb2d;
 }
+@media screen and (max-width: 346px) {
+  #kabab h2 {
+    font-size: 30px;
+  }
+  #kabab h3 {
+    font-size: 24px;
+  }
+  #kabab h4 {
+    font-size: 24px;
+  }
+}
 
 #salat h2 {
   font-size: 40px;
@@ -211,6 +264,17 @@ header h3 {
   margin: 10px 15px 15px 0;
   color: #0adb2d;
 }
+@media screen and (max-width: 346px) {
+  #salat h2 {
+    font-size: 30px;
+  }
+  #salat h3 {
+    font-size: 24px;
+  }
+  #salat h4 {
+    font-size: 24px;
+  }
+}
 
 #drink h2 {
   font-size: 40px;
@@ -241,6 +305,17 @@ header h3 {
   font-size: 27px;
   margin: 10px 15px 15px 0;
   color: #0adb2d;
+}
+@media screen and (max-width: 346px) {
+  #drink h2 {
+    font-size: 30px;
+  }
+  #drink h3 {
+    font-size: 24px;
+  }
+  #drink h4 {
+    font-size: 24px;
+  }
 }
 
 footer {
