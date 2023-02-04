@@ -146,31 +146,31 @@ header h3 {
   color: #0adb2d;
 }
 
-#kebab h2 {
+#kabab h2 {
   font-size: 40px;
   color: #e60707;
   margin: 20px 0;
 }
-#kebab .imgbox {
+#kabab .imgbox {
   background-color: #212121;
   border: 3px solid #ad0606;
   border-radius: 20px;
   margin-bottom: 20px;
 }
-#kebab .imgbox img {
+#kabab .imgbox img {
   border: 3px solid #ad0606;
   border-radius: 15px;
 }
-#kebab .imgbox img:hover {
+#kabab .imgbox img:hover {
   cursor: pointer;
 }
-#kebab .imgbox h3 {
+#kabab .imgbox h3 {
   text-align: center;
   font-size: 27px;
   margin: 10px 0 15px 10px;
   color: #e2a808;
 }
-#kebab .imgbox h4 {
+#kabab .imgbox h4 {
   text-align: center;
   font-size: 27px;
   margin: 10px 15px 15px 0;
