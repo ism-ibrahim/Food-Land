@@ -181,62 +181,62 @@ header h3 {
   color: #0adb2d;
 }
 
-#salats h2 {
+#salat h2 {
   font-size: 40px;
   color: #e60707;
   margin: 20px 0;
 }
-#salats .imgbox {
+#salat .imgbox {
   background-color: #212121;
   border: 3px solid #ad0606;
   border-radius: 20px;
   margin-bottom: 20px;
 }
-#salats .imgbox img {
+#salat .imgbox img {
   border: 3px solid #ad0606;
   border-radius: 15px;
 }
-#salats .imgbox img:hover {
+#salat .imgbox img:hover {
   cursor: pointer;
 }
-#salats .imgbox h3 {
+#salat .imgbox h3 {
   text-align: center;
   font-size: 27px;
   margin: 10px 0 15px 10px;
   color: #e2a808;
 }
-#salats .imgbox h4 {
+#salat .imgbox h4 {
   text-align: center;
   font-size: 27px;
   margin: 10px 15px 15px 0;
   color: #0adb2d;
 }
 
-#drinks h2 {
+#drink h2 {
   font-size: 40px;
   color: #e60707;
   margin: 20px 0;
 }
-#drinks .imgbox {
+#drink .imgbox {
   background-color: #212121;
   border: 3px solid #ad0606;
   border-radius: 20px;
   margin-bottom: 20px;
 }
-#drinks .imgbox img {
+#drink .imgbox img {
   border: 3px solid #ad0606;
   border-radius: 15px;
 }
-#drinks .imgbox img:hover {
+#drink .imgbox img:hover {
   cursor: pointer;
 }
-#drinks .imgbox h3 {
+#drink .imgbox h3 {
   text-align: center;
   font-size: 27px;
   margin: 10px 0 15px 10px;
   color: #e2a808;
 }
-#drinks .imgbox h4 {
+#drink .imgbox h4 {
   text-align: center;
   font-size: 27px;
   margin: 10px 15px 15px 0;
