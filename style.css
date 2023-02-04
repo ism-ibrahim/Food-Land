@@ -139,11 +139,13 @@ header h3 {
   #burger h2 {
     font-size: 30px;
   }
-  #burger h3 {
+  #burger .imgbox h3 {
     font-size: 24px;
+    margin: 10px 0 15px 8px;
   }
-  #burger h4 {
+  #burger .imgbox h4 {
     font-size: 24px;
+    margin: 10px 12px 15px 0;
   }
 }
 
@@ -181,11 +183,13 @@ header h3 {
   #pizza h2 {
     font-size: 30px;
   }
-  #pizza h3 {
-    font-size: 24px;
+  #pizza .imgbox h3 {
+    font-size: 21px;
+    margin: 10px 0 15px 8px;
   }
-  #pizza h4 {
-    font-size: 24px;
+  #pizza .imgbox h4 {
+    font-size: 21px;
+    margin: 10px 10px 15px 0;
   }
 }
 
@@ -226,11 +230,13 @@ header h3 {
   #kabab h2 {
     font-size: 30px;
   }
-  #kabab h3 {
+  #kabab .imgbox h3 {
     font-size: 24px;
+    margin: 10px 0 15px 8px;
   }
-  #kabab h4 {
+  #kabab .imgbox h4 {
     font-size: 24px;
+    margin: 10px 12px 15px 0;
   }
 }
 
@@ -268,11 +274,13 @@ header h3 {
   #salat h2 {
     font-size: 30px;
   }
-  #salat h3 {
+  #salat .imgbox h3 {
     font-size: 24px;
+    margin: 10px 0 15px 8px;
   }
-  #salat h4 {
+  #salat .imgbox h4 {
     font-size: 24px;
+    margin: 10px 12px 15px 0;
   }
 }
 
@@ -310,11 +318,13 @@ header h3 {
   #drink h2 {
     font-size: 30px;
   }
-  #drink h3 {
+  #drink .imgbox h3 {
     font-size: 24px;
+    margin: 10px 0 15px 8px;
   }
-  #drink h4 {
+  #drink .imgbox h4 {
     font-size: 24px;
+    margin: 10px 12px 15px 0;
   }
 }
 
