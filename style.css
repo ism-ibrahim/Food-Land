@@ -68,7 +68,7 @@ header h3 {
 }
 @media screen and (max-width: 346px) {
   header h1 {
-    font-size: 35px;
+    font-size: 33px;
   }
   header h2 {
     font-size: 18px;
@@ -101,7 +101,7 @@ header h3 {
 }
 @media screen and (max-width: 346px) {
   #menu h1 {
-    font-size: 50px;
+    font-size: 45px;
   }
 }
 
@@ -140,12 +140,12 @@ header h3 {
     font-size: 30px;
   }
   #burger .imgbox h3 {
-    font-size: 24px;
+    font-size: 21px;
     margin: 10px 0 15px 8px;
   }
   #burger .imgbox h4 {
-    font-size: 24px;
-    margin: 10px 12px 15px 0;
+    font-size: 21px;
+    margin: 10px 10px 15px 0;
   }
 }
 
@@ -231,12 +231,12 @@ header h3 {
     font-size: 30px;
   }
   #kabab .imgbox h3 {
-    font-size: 24px;
+    font-size: 21px;
     margin: 10px 0 15px 8px;
   }
   #kabab .imgbox h4 {
-    font-size: 24px;
-    margin: 10px 12px 15px 0;
+    font-size: 21px;
+    margin: 10px 10px 15px 0;
   }
 }
 
@@ -275,12 +275,12 @@ header h3 {
     font-size: 30px;
   }
   #salat .imgbox h3 {
-    font-size: 24px;
+    font-size: 21px;
     margin: 10px 0 15px 8px;
   }
   #salat .imgbox h4 {
-    font-size: 24px;
-    margin: 10px 12px 15px 0;
+    font-size: 21px;
+    margin: 10px 10px 15px 0;
   }
 }
 
@@ -319,12 +319,12 @@ header h3 {
     font-size: 30px;
   }
   #drink .imgbox h3 {
-    font-size: 24px;
+    font-size: 21px;
     margin: 10px 0 15px 8px;
   }
   #drink .imgbox h4 {
-    font-size: 24px;
-    margin: 10px 12px 15px 0;
+    font-size: 21px;
+    margin: 10px 10px 15px 0;
   }
 }
 
