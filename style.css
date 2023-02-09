@@ -138,9 +138,17 @@ header h3 {
   margin: 10px 15px 15px 0;
   color: #0adb2d;
 }
+@media screen and (max-width: 768px) {
+  #burger .imgbox h3, #burger .imgbox h4 {
+    font-size: 19px;
+  }
+}
 @media screen and (max-width: 346px) {
   #burger h2 {
     font-size: 30px;
+  }
+  #burger .imgbox {
+    box-shadow: none;
   }
   #burger .imgbox h3 {
     font-size: 21px;
@@ -182,6 +190,11 @@ header h3 {
   font-size: 27px;
   margin: 10px 15px 15px 0;
   color: #0adb2d;
+}
+@media screen and (max-width: 768px) {
+  #pizza .imgbox h3, #pizza .imgbox h4 {
+    font-size: 19px;
+  }
 }
 @media screen and (max-width: 346px) {
   #pizza h2 {
@@ -231,6 +244,11 @@ header h3 {
   margin: 10px 15px 15px 0;
   color: #0adb2d;
 }
+@media screen and (max-width: 768px) {
+  #kabab .imgbox h3, #kabab .imgbox h4 {
+    font-size: 19px;
+  }
+}
 @media screen and (max-width: 346px) {
   #kabab h2 {
     font-size: 30px;
@@ -275,6 +293,11 @@ header h3 {
   font-size: 27px;
   margin: 10px 15px 15px 0;
   color: #0adb2d;
+}
+@media screen and (max-width: 768px) {
+  #salat .imgbox h3, #salat .imgbox h4 {
+    font-size: 19px;
+  }
 }
 @media screen and (max-width: 346px) {
   #salat h2 {
@@ -321,6 +344,11 @@ header h3 {
   margin: 10px 15px 15px 0;
   color: #0adb2d;
 }
+@media screen and (max-width: 768px) {
+  #drink .imgbox h3, #drink .imgbox h4 {
+    font-size: 19px;
+  }
+}
 @media screen and (max-width: 346px) {
   #drink h2 {
     font-size: 30px;
@@ -358,4 +386,9 @@ footer .icons a i {
 footer .icons a i:hover {
   background-color: #e60707;
   cursor: pointer;
+}
+@media screen and (max-width: 346px) {
+  footer p {
+    font-size: 14px;
+  }
 }/*# sourceMappingURL=style.css.map */
