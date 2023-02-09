@@ -23,10 +23,11 @@ header {
   width: 100%;
 }
 header h1 {
+  text-shadow: 3px 3px 3px #e2a808;
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
   text-align: center;
   font-size: 65px;
-  color: #e60707;
+  color: #db0707;
   margin-top: 10px;
 }
 header h1:hover {
@@ -86,6 +87,7 @@ header h3 {
   padding: 150px 0 10px;
 }
 #menu h1 {
+  text-shadow: 3px 3px 3px #db0707;
   text-align: center;
   font-size: 60px;
   color: #dbbc08;
@@ -111,6 +113,7 @@ header h3 {
   margin: 20px 0;
 }
 #burger .imgbox {
+  box-shadow: 7px 7px 5px #0adb2d;
   background-color: #212121;
   border: 3px solid #ad0606;
   border-radius: 20px;
@@ -155,6 +158,7 @@ header h3 {
   margin: 20px 0;
 }
 #pizza .imgbox {
+  box-shadow: 7px 7px 5px #0adb2d;
   background-color: #212121;
   border: 3px solid #ad0606;
   border-radius: 20px;
@@ -202,6 +206,7 @@ header h3 {
   margin: 20px 0;
 }
 #kabab .imgbox {
+  box-shadow: 7px 7px 5px #0adb2d;
   background-color: #212121;
   border: 3px solid #ad0606;
   border-radius: 20px;
@@ -246,6 +251,7 @@ header h3 {
   margin: 20px 0;
 }
 #salat .imgbox {
+  box-shadow: 7px 7px 5px #0adb2d;
   background-color: #212121;
   border: 3px solid #ad0606;
   border-radius: 20px;
@@ -290,6 +296,7 @@ header h3 {
   margin: 20px 0;
 }
 #drink .imgbox {
+  box-shadow: 7px 7px 5px #0adb2d;
   background-color: #212121;
   border: 3px solid #ad0606;
   border-radius: 20px;
