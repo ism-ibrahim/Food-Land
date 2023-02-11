@@ -3,13 +3,15 @@ header
     position: fixed
     z-index: 1
     width: 100%
+    border-bottom: 2px solid #0adb2def
+    box-shadow: 0 2px 10px #0adb2def
     h1
         text-shadow: 3px 3px 3px #e2a808
         font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
         text-align: center
-        font-size: 65px
+        font-size: 4vw
         color: #db0707
-        margin-top: 10px
+        margin: 10px 0
         &:hover
             cursor: pointer
     h2
@@ -31,23 +33,26 @@ header
         padding: 8px
     @media screen and ( max-width: 768px )
         h1
-            font-size: 45px
+            font-size: 30px
         h2
             font-size: 20px
-            margin: 15px 0 0
+            margin: 5px 0 0
             padding: 5px
         h3
             font-size: 20px
-            margin: 15px 0 0
+            margin: 5px 0 0
             padding: 5px
-    @media screen and ( max-width: 346px  )
+    @media screen and ( max-width: 425px )
         h1
-            font-size: 33px
+            font-size: 11vw
+    @media screen and ( max-width: 346px )
+        h1
+            font-size: 11vw
         h2
             font-size: 18px
-            margin: 15px 0 0
+            margin: 5px 0 0
             padding: 5px
         h3
             font-size: 18px
-            margin: 15px 0 0
+            margin: 5px 0 0
             padding: 5px
