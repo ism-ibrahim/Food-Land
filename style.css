@@ -28,45 +28,16 @@ header h1 {
   text-shadow: 3px 3px 3px #e2a808;
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
   text-align: center;
-  font-size: 4vw;
+  font-size: 65px;
   color: #db0707;
   margin: 10px 0;
 }
 header h1:hover {
   cursor: pointer;
 }
-header h2 {
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 30px;
-  margin: 20px 0 5px;
-  color: #0adb2d;
-  border: 2px solid rgba(10, 219, 45, 0.937254902);
-  border-radius: 8px;
-  padding: 8px;
-}
-header h3 {
-  font-family: Arial, Helvetica, sans-serif;
-  text-align: right;
-  font-size: 30px;
-  margin: 20px 0 5px;
-  color: #0adb2d;
-  border: 2px solid rgba(10, 219, 45, 0.937254902);
-  border-radius: 8px;
-  padding: 8px;
-}
 @media screen and (max-width: 768px) {
   header h1 {
-    font-size: 30px;
-  }
-  header h2 {
-    font-size: 20px;
-    margin: 5px 0 0;
-    padding: 5px;
-  }
-  header h3 {
-    font-size: 20px;
-    margin: 5px 0 0;
-    padding: 5px;
+    font-size: 50px;
   }
 }
 @media screen and (max-width: 425px) {
@@ -77,16 +48,6 @@ header h3 {
 @media screen and (max-width: 346px) {
   header h1 {
     font-size: 11vw;
-  }
-  header h2 {
-    font-size: 18px;
-    margin: 5px 0 0;
-    padding: 5px;
-  }
-  header h3 {
-    font-size: 18px;
-    margin: 5px 0 0;
-    padding: 5px;
   }
 }
 
@@ -108,17 +69,12 @@ header h3 {
     margin: 10px 0 0;
   }
 }
-@media screen and (max-width: 425px) {
-  #menu {
-    padding: 160px 0 0;
-  }
-}
 @media screen and (max-width: 346px) {
   #menu {
-    padding: 150px 0 0;
+    padding: 100px 0 0;
   }
   #menu h1 {
-    font-size: 45px;
+    font-size: 50px;
   }
 }
 
@@ -127,9 +83,10 @@ header h3 {
   box-shadow: 0 3px 3px rgba(10, 219, 45, 0.937254902);
 }
 #burger h2 {
+  text-shadow: 2px 2px 2px #e2a808;
   font-size: 40px;
-  color: #e60707;
-  margin: 20px 0;
+  color: #d60404;
+  margin: 30px 0;
 }
 #burger .imgbox {
   box-shadow: 7px 7px 5px #0adb2d;
@@ -166,9 +123,6 @@ header h3 {
   #burger h2 {
     font-size: 30px;
   }
-  #burger .imgbox {
-    box-shadow: none;
-  }
   #burger .imgbox h3 {
     font-size: 21px;
     margin: 10px 0 15px 8px;
@@ -184,9 +138,10 @@ header h3 {
   box-shadow: 0 3px 10px rgba(10, 219, 45, 0.937254902);
 }
 #pizza h2 {
+  text-shadow: 2px 2px 2px #e2a808;
   font-size: 40px;
-  color: #e60707;
-  margin: 20px 0;
+  color: #d60404;
+  margin: 30px 0;
 }
 #pizza .imgbox {
   box-shadow: 7px 7px 5px #0adb2d;
@@ -239,9 +194,10 @@ header h3 {
   padding-left: 20px;
 }
 #kabab h2 {
+  text-shadow: 2px 2px 2px #e2a808;
   font-size: 40px;
-  color: #e60707;
-  margin: 20px 0;
+  color: #d60404;
+  margin: 30px 0;
 }
 #kabab .imgbox {
   box-shadow: 7px 7px 5px #0adb2d;
@@ -293,9 +249,10 @@ header h3 {
   box-shadow: 0 3px 10px rgba(10, 219, 45, 0.937254902);
 }
 #salat h2 {
+  text-shadow: 2px 2px 2px #e2a808;
   font-size: 40px;
-  color: #e60707;
-  margin: 20px 0;
+  color: #d60404;
+  margin: 30px 0;
 }
 #salat .imgbox {
   box-shadow: 7px 7px 5px #0adb2d;
@@ -347,9 +304,10 @@ header h3 {
   box-shadow: 0 3px 10px rgba(10, 219, 45, 0.937254902);
 }
 #drink h2 {
+  text-shadow: 2px 2px 2px #e2a808;
   font-size: 40px;
-  color: #e60707;
-  margin: 20px 0;
+  color: #d60404;
+  margin: 30px 0;
 }
 #drink .imgbox {
   box-shadow: 7px 7px 5px #0adb2d;
