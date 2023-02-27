@@ -98,8 +98,6 @@ header h1:hover {
 #burger .imgbox img {
   border: 3px solid #ad0606;
   border-radius: 15px;
-}
-#burger .imgbox img:hover {
   cursor: pointer;
 }
 #burger .imgbox h3 {
@@ -114,22 +112,123 @@ header h1:hover {
   margin: 10px 15px 15px 0;
   color: #0adb2d;
 }
-@media screen and (max-width: 768px) {
-  #burger .imgbox h3, #burger .imgbox h4 {
-    font-size: 19px;
-  }
-}
-@media screen and (max-width: 346px) {
+@media screen and (min-width: 320px) and (max-width: 375px) {
   #burger h2 {
-    font-size: 30px;
+    font-size: 40px;
+    margin: 30px 0;
+  }
+  #burger .imgbox {
+    margin-bottom: 20px;
   }
   #burger .imgbox h3 {
-    font-size: 21px;
-    margin: 10px 0 15px 8px;
+    font-size: 27px;
+    margin: 10px 0 15px 10px;
   }
   #burger .imgbox h4 {
-    font-size: 21px;
-    margin: 10px 10px 15px 0;
+    font-size: 27px;
+    margin: 10px 15px 15px 0;
+  }
+}
+@media screen and (min-width: 376px) and (max-width: 424px) {
+  #burger h2 {
+    font-size: 40px;
+    margin: 30px 0;
+  }
+  #burger .imgbox {
+    margin-bottom: 20px;
+  }
+  #burger .imgbox h3 {
+    font-size: 27px;
+    margin: 10px 0 15px 10px;
+  }
+  #burger .imgbox h4 {
+    font-size: 27px;
+    margin: 10px 15px 15px 0;
+  }
+}
+@media screen and (min-width: 425px) and (max-width: 767px) {
+  #burger h2 {
+    font-size: 40px;
+    margin: 30px 0;
+  }
+  #burger .imgbox {
+    margin-bottom: 20px;
+  }
+  #burger .imgbox h3 {
+    font-size: 27px;
+    margin: 10px 0 15px 10px;
+  }
+  #burger .imgbox h4 {
+    font-size: 27px;
+    margin: 10px 15px 15px 0;
+  }
+}
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  #burger h2 {
+    font-size: 40px;
+    margin: 30px 0;
+  }
+  #burger .imgbox {
+    margin-bottom: 20px;
+  }
+  #burger .imgbox h3 {
+    font-size: 19px;
+    margin: 10px 0 15px 10px;
+  }
+  #burger .imgbox h4 {
+    font-size: 19px;
+    margin: 10px 15px 15px 0;
+  }
+}
+@media screen and (min-width: 1024px) and (max-width: 1439px) {
+  #burger h2 {
+    font-size: 40px;
+    margin: 30px 0;
+  }
+  #burger .imgbox {
+    margin-bottom: 20px;
+  }
+  #burger .imgbox h3 {
+    font-size: 27px;
+    margin: 10px 0 15px 10px;
+  }
+  #burger .imgbox h4 {
+    font-size: 27px;
+    margin: 10px 15px 15px 0;
+  }
+}
+@media screen and (min-width: 1440px) and (max-width: 2559px) {
+  #burger h2 {
+    font-size: 40px;
+    margin: 30px 0;
+  }
+  #burger .imgbox {
+    margin-bottom: 20px;
+  }
+  #burger .imgbox h3 {
+    font-size: 27px;
+    margin: 10px 0 15px 10px;
+  }
+  #burger .imgbox h4 {
+    font-size: 27px;
+    margin: 10px 15px 15px 0;
+  }
+}
+@media screen and (min-width: 2560px) {
+  #burger h2 {
+    font-size: 40px;
+    margin: 30px 0;
+  }
+  #burger .imgbox {
+    margin-bottom: 20px;
+  }
+  #burger .imgbox h3 {
+    font-size: 27px;
+    margin: 10px 0 15px 10px;
+  }
+  #burger .imgbox h4 {
+    font-size: 27px;
+    margin: 10px 15px 15px 0;
   }
 }
 
@@ -169,22 +268,123 @@ header h1:hover {
   margin: 10px 15px 15px 0;
   color: #0adb2d;
 }
-@media screen and (max-width: 768px) {
-  #pizza .imgbox h3, #pizza .imgbox h4 {
-    font-size: 19px;
-  }
-}
-@media screen and (max-width: 346px) {
+@media screen and (min-width: 320px) and (max-width: 375px) {
   #pizza h2 {
-    font-size: 30px;
+    font-size: 40px;
+    margin: 30px 0;
+  }
+  #pizza .imgbox {
+    margin-bottom: 20px;
   }
   #pizza .imgbox h3 {
-    font-size: 21px;
-    margin: 10px 0 15px 8px;
+    font-size: 27px;
+    margin: 10px 0 15px 10px;
   }
   #pizza .imgbox h4 {
-    font-size: 21px;
-    margin: 10px 10px 15px 0;
+    font-size: 27px;
+    margin: 10px 15px 15px 0;
+  }
+}
+@media screen and (min-width: 376px) and (max-width: 424px) {
+  #pizza h2 {
+    font-size: 40px;
+    margin: 30px 0;
+  }
+  #pizza .imgbox {
+    margin-bottom: 20px;
+  }
+  #pizza .imgbox h3 {
+    font-size: 27px;
+    margin: 10px 0 15px 10px;
+  }
+  #pizza .imgbox h4 {
+    font-size: 27px;
+    margin: 10px 15px 15px 0;
+  }
+}
+@media screen and (min-width: 425px) and (max-width: 767px) {
+  #pizza h2 {
+    font-size: 40px;
+    margin: 30px 0;
+  }
+  #pizza .imgbox {
+    margin-bottom: 20px;
+  }
+  #pizza .imgbox h3 {
+    font-size: 27px;
+    margin: 10px 0 15px 10px;
+  }
+  #pizza .imgbox h4 {
+    font-size: 27px;
+    margin: 10px 15px 15px 0;
+  }
+}
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  #pizza h2 {
+    font-size: 40px;
+    margin: 30px 0;
+  }
+  #pizza .imgbox {
+    margin-bottom: 20px;
+  }
+  #pizza .imgbox h3 {
+    font-size: 19px;
+    margin: 10px 0 15px 10px;
+  }
+  #pizza .imgbox h4 {
+    font-size: 19px;
+    margin: 10px 15px 15px 0;
+  }
+}
+@media screen and (min-width: 1024px) and (max-width: 1439px) {
+  #pizza h2 {
+    font-size: 40px;
+    margin: 30px 0;
+  }
+  #pizza .imgbox {
+    margin-bottom: 20px;
+  }
+  #pizza .imgbox h3 {
+    font-size: 27px;
+    margin: 10px 0 15px 10px;
+  }
+  #pizza .imgbox h4 {
+    font-size: 27px;
+    margin: 10px 15px 15px 0;
+  }
+}
+@media screen and (min-width: 1440px) and (max-width: 2559px) {
+  #pizza h2 {
+    font-size: 40px;
+    margin: 30px 0;
+  }
+  #pizza .imgbox {
+    margin-bottom: 20px;
+  }
+  #pizza .imgbox h3 {
+    font-size: 27px;
+    margin: 10px 0 15px 10px;
+  }
+  #pizza .imgbox h4 {
+    font-size: 27px;
+    margin: 10px 15px 15px 0;
+  }
+}
+@media screen and (min-width: 2560px) {
+  #pizza h2 {
+    font-size: 40px;
+    margin: 30px 0;
+  }
+  #pizza .imgbox {
+    margin-bottom: 20px;
+  }
+  #pizza .imgbox h3 {
+    font-size: 27px;
+    margin: 10px 0 15px 10px;
+  }
+  #pizza .imgbox h4 {
+    font-size: 27px;
+    margin: 10px 15px 15px 0;
   }
 }
 
@@ -225,22 +425,123 @@ header h1:hover {
   margin: 10px 15px 15px 0;
   color: #0adb2d;
 }
-@media screen and (max-width: 768px) {
-  #kabab .imgbox h3, #kabab .imgbox h4 {
-    font-size: 19px;
-  }
-}
-@media screen and (max-width: 346px) {
+@media screen and (min-width: 320px) and (max-width: 375px) {
   #kabab h2 {
-    font-size: 30px;
+    font-size: 40px;
+    margin: 30px 0;
+  }
+  #kabab .imgbox {
+    margin-bottom: 20px;
   }
   #kabab .imgbox h3 {
-    font-size: 21px;
-    margin: 10px 0 15px 8px;
+    font-size: 27px;
+    margin: 10px 0 15px 10px;
   }
   #kabab .imgbox h4 {
-    font-size: 21px;
-    margin: 10px 10px 15px 0;
+    font-size: 27px;
+    margin: 10px 15px 15px 0;
+  }
+}
+@media screen and (min-width: 376px) and (max-width: 424px) {
+  #kabab h2 {
+    font-size: 40px;
+    margin: 30px 0;
+  }
+  #kabab .imgbox {
+    margin-bottom: 20px;
+  }
+  #kabab .imgbox h3 {
+    font-size: 27px;
+    margin: 10px 0 15px 10px;
+  }
+  #kabab .imgbox h4 {
+    font-size: 27px;
+    margin: 10px 15px 15px 0;
+  }
+}
+@media screen and (min-width: 425px) and (max-width: 767px) {
+  #kabab h2 {
+    font-size: 40px;
+    margin: 30px 0;
+  }
+  #kabab .imgbox {
+    margin-bottom: 20px;
+  }
+  #kabab .imgbox h3 {
+    font-size: 27px;
+    margin: 10px 0 15px 10px;
+  }
+  #kabab .imgbox h4 {
+    font-size: 27px;
+    margin: 10px 15px 15px 0;
+  }
+}
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  #kabab h2 {
+    font-size: 40px;
+    margin: 30px 0;
+  }
+  #kabab .imgbox {
+    margin-bottom: 20px;
+  }
+  #kabab .imgbox h3 {
+    font-size: 19px;
+    margin: 10px 0 15px 10px;
+  }
+  #kabab .imgbox h4 {
+    font-size: 19px;
+    margin: 10px 15px 15px 0;
+  }
+}
+@media screen and (min-width: 1024px) and (max-width: 1439px) {
+  #kabab h2 {
+    font-size: 40px;
+    margin: 30px 0;
+  }
+  #kabab .imgbox {
+    margin-bottom: 20px;
+  }
+  #kabab .imgbox h3 {
+    font-size: 27px;
+    margin: 10px 0 15px 10px;
+  }
+  #kabab .imgbox h4 {
+    font-size: 27px;
+    margin: 10px 15px 15px 0;
+  }
+}
+@media screen and (min-width: 1440px) and (max-width: 2559px) {
+  #kabab h2 {
+    font-size: 40px;
+    margin: 30px 0;
+  }
+  #kabab .imgbox {
+    margin-bottom: 20px;
+  }
+  #kabab .imgbox h3 {
+    font-size: 27px;
+    margin: 10px 0 15px 10px;
+  }
+  #kabab .imgbox h4 {
+    font-size: 27px;
+    margin: 10px 15px 15px 0;
+  }
+}
+@media screen and (min-width: 2560px) {
+  #kabab h2 {
+    font-size: 40px;
+    margin: 30px 0;
+  }
+  #kabab .imgbox {
+    margin-bottom: 20px;
+  }
+  #kabab .imgbox h3 {
+    font-size: 27px;
+    margin: 10px 0 15px 10px;
+  }
+  #kabab .imgbox h4 {
+    font-size: 27px;
+    margin: 10px 15px 15px 0;
   }
 }
 
@@ -280,22 +581,123 @@ header h1:hover {
   margin: 10px 15px 15px 0;
   color: #0adb2d;
 }
-@media screen and (max-width: 768px) {
-  #salat .imgbox h3, #salat .imgbox h4 {
-    font-size: 19px;
-  }
-}
-@media screen and (max-width: 346px) {
+@media screen and (min-width: 320px) and (max-width: 375px) {
   #salat h2 {
-    font-size: 30px;
+    font-size: 40px;
+    margin: 30px 0;
+  }
+  #salat .imgbox {
+    margin-bottom: 20px;
   }
   #salat .imgbox h3 {
-    font-size: 21px;
-    margin: 10px 0 15px 8px;
+    font-size: 27px;
+    margin: 10px 0 15px 10px;
   }
   #salat .imgbox h4 {
-    font-size: 21px;
-    margin: 10px 10px 15px 0;
+    font-size: 27px;
+    margin: 10px 15px 15px 0;
+  }
+}
+@media screen and (min-width: 376px) and (max-width: 424px) {
+  #salat h2 {
+    font-size: 40px;
+    margin: 30px 0;
+  }
+  #salat .imgbox {
+    margin-bottom: 20px;
+  }
+  #salat .imgbox h3 {
+    font-size: 27px;
+    margin: 10px 0 15px 10px;
+  }
+  #salat .imgbox h4 {
+    font-size: 27px;
+    margin: 10px 15px 15px 0;
+  }
+}
+@media screen and (min-width: 425px) and (max-width: 767px) {
+  #salat h2 {
+    font-size: 40px;
+    margin: 30px 0;
+  }
+  #salat .imgbox {
+    margin-bottom: 20px;
+  }
+  #salat .imgbox h3 {
+    font-size: 27px;
+    margin: 10px 0 15px 10px;
+  }
+  #salat .imgbox h4 {
+    font-size: 27px;
+    margin: 10px 15px 15px 0;
+  }
+}
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  #salat h2 {
+    font-size: 40px;
+    margin: 30px 0;
+  }
+  #salat .imgbox {
+    margin-bottom: 20px;
+  }
+  #salat .imgbox h3 {
+    font-size: 19px;
+    margin: 10px 0 15px 10px;
+  }
+  #salat .imgbox h4 {
+    font-size: 19px;
+    margin: 10px 15px 15px 0;
+  }
+}
+@media screen and (min-width: 1024px) and (max-width: 1439px) {
+  #salat h2 {
+    font-size: 40px;
+    margin: 30px 0;
+  }
+  #salat .imgbox {
+    margin-bottom: 20px;
+  }
+  #salat .imgbox h3 {
+    font-size: 27px;
+    margin: 10px 0 15px 10px;
+  }
+  #salat .imgbox h4 {
+    font-size: 27px;
+    margin: 10px 15px 15px 0;
+  }
+}
+@media screen and (min-width: 1440px) and (max-width: 2559px) {
+  #salat h2 {
+    font-size: 40px;
+    margin: 30px 0;
+  }
+  #salat .imgbox {
+    margin-bottom: 20px;
+  }
+  #salat .imgbox h3 {
+    font-size: 27px;
+    margin: 10px 0 15px 10px;
+  }
+  #salat .imgbox h4 {
+    font-size: 27px;
+    margin: 10px 15px 15px 0;
+  }
+}
+@media screen and (min-width: 2560px) {
+  #salat h2 {
+    font-size: 40px;
+    margin: 30px 0;
+  }
+  #salat .imgbox {
+    margin-bottom: 20px;
+  }
+  #salat .imgbox h3 {
+    font-size: 27px;
+    margin: 10px 0 15px 10px;
+  }
+  #salat .imgbox h4 {
+    font-size: 27px;
+    margin: 10px 15px 15px 0;
   }
 }
 
@@ -335,22 +737,123 @@ header h1:hover {
   margin: 10px 15px 15px 0;
   color: #0adb2d;
 }
-@media screen and (max-width: 768px) {
-  #drink .imgbox h3, #drink .imgbox h4 {
-    font-size: 19px;
-  }
-}
-@media screen and (max-width: 346px) {
+@media screen and (min-width: 320px) and (max-width: 375px) {
   #drink h2 {
-    font-size: 30px;
+    font-size: 40px;
+    margin: 30px 0;
+  }
+  #drink .imgbox {
+    margin-bottom: 20px;
   }
   #drink .imgbox h3 {
-    font-size: 21px;
-    margin: 10px 0 15px 8px;
+    font-size: 27px;
+    margin: 10px 0 15px 10px;
   }
   #drink .imgbox h4 {
-    font-size: 21px;
-    margin: 10px 10px 15px 0;
+    font-size: 27px;
+    margin: 10px 15px 15px 0;
+  }
+}
+@media screen and (min-width: 376px) and (max-width: 424px) {
+  #drink h2 {
+    font-size: 40px;
+    margin: 30px 0;
+  }
+  #drink .imgbox {
+    margin-bottom: 20px;
+  }
+  #drink .imgbox h3 {
+    font-size: 27px;
+    margin: 10px 0 15px 10px;
+  }
+  #drink .imgbox h4 {
+    font-size: 27px;
+    margin: 10px 15px 15px 0;
+  }
+}
+@media screen and (min-width: 425px) and (max-width: 767px) {
+  #drink h2 {
+    font-size: 40px;
+    margin: 30px 0;
+  }
+  #drink .imgbox {
+    margin-bottom: 20px;
+  }
+  #drink .imgbox h3 {
+    font-size: 27px;
+    margin: 10px 0 15px 10px;
+  }
+  #drink .imgbox h4 {
+    font-size: 27px;
+    margin: 10px 15px 15px 0;
+  }
+}
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  #drink h2 {
+    font-size: 40px;
+    margin: 30px 0;
+  }
+  #drink .imgbox {
+    margin-bottom: 20px;
+  }
+  #drink .imgbox h3 {
+    font-size: 19px;
+    margin: 10px 0 15px 10px;
+  }
+  #drink .imgbox h4 {
+    font-size: 19px;
+    margin: 10px 15px 15px 0;
+  }
+}
+@media screen and (min-width: 1024px) and (max-width: 1439px) {
+  #drink h2 {
+    font-size: 40px;
+    margin: 30px 0;
+  }
+  #drink .imgbox {
+    margin-bottom: 20px;
+  }
+  #drink .imgbox h3 {
+    font-size: 27px;
+    margin: 10px 0 15px 10px;
+  }
+  #drink .imgbox h4 {
+    font-size: 27px;
+    margin: 10px 15px 15px 0;
+  }
+}
+@media screen and (min-width: 1440px) and (max-width: 2559px) {
+  #drink h2 {
+    font-size: 40px;
+    margin: 30px 0;
+  }
+  #drink .imgbox {
+    margin-bottom: 20px;
+  }
+  #drink .imgbox h3 {
+    font-size: 27px;
+    margin: 10px 0 15px 10px;
+  }
+  #drink .imgbox h4 {
+    font-size: 27px;
+    margin: 10px 15px 15px 0;
+  }
+}
+@media screen and (min-width: 2560px) {
+  #drink h2 {
+    font-size: 40px;
+    margin: 30px 0;
+  }
+  #drink .imgbox {
+    margin-bottom: 20px;
+  }
+  #drink .imgbox h3 {
+    font-size: 27px;
+    margin: 10px 0 15px 10px;
+  }
+  #drink .imgbox h4 {
+    font-size: 27px;
+    margin: 10px 15px 15px 0;
   }
 }
 
